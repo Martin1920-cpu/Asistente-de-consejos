@@ -1,1 +1,13 @@
 /* Estilos globales para Quasar */
+@font-face {
+  font-family: 'Kids Magazine';
+  src: url('/fonts/Kids Magazine.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Kids Magazine', sans-serif;
+  background: url(https://www.shutterstock.com/image-vector/no-plastic-go-green-zero-600nw-1950569695.jpg) no-repeat center center;
+  background-size: cover;
+}
